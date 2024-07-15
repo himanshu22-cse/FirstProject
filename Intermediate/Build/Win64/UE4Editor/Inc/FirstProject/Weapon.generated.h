@@ -16,8 +16,8 @@ struct FHitResult;
 #endif
 #define FIRSTPROJECT_Weapon_generated_h
 
-#define SoulSkillsGame_master_Source_FirstProject_Weapon_h_24_SPARSE_DATA
-#define SoulSkillsGame_master_Source_FirstProject_Weapon_h_24_RPC_WRAPPERS \
+#define SoulSkillsGame_master_Source_FirstProject_Weapon_h_21_SPARSE_DATA
+#define SoulSkillsGame_master_Source_FirstProject_Weapon_h_21_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execDeactivateCollision); \
 	DECLARE_FUNCTION(execActivateCollision); \
@@ -25,7 +25,7 @@ struct FHitResult;
 	DECLARE_FUNCTION(execCombatOnOverlapBegin);
 
 
-#define SoulSkillsGame_master_Source_FirstProject_Weapon_h_24_RPC_WRAPPERS_NO_PURE_DECLS \
+#define SoulSkillsGame_master_Source_FirstProject_Weapon_h_21_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execDeactivateCollision); \
 	DECLARE_FUNCTION(execActivateCollision); \
@@ -33,7 +33,7 @@ struct FHitResult;
 	DECLARE_FUNCTION(execCombatOnOverlapBegin);
 
 
-#define SoulSkillsGame_master_Source_FirstProject_Weapon_h_24_INCLASS_NO_PURE_DECLS \
+#define SoulSkillsGame_master_Source_FirstProject_Weapon_h_21_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAWeapon(); \
 	friend struct Z_Construct_UClass_AWeapon_Statics; \
@@ -42,7 +42,7 @@ public: \
 	DECLARE_SERIALIZER(AWeapon)
 
 
-#define SoulSkillsGame_master_Source_FirstProject_Weapon_h_24_INCLASS \
+#define SoulSkillsGame_master_Source_FirstProject_Weapon_h_21_INCLASS \
 private: \
 	static void StaticRegisterNativesAWeapon(); \
 	friend struct Z_Construct_UClass_AWeapon_Statics; \
@@ -51,7 +51,7 @@ public: \
 	DECLARE_SERIALIZER(AWeapon)
 
 
-#define SoulSkillsGame_master_Source_FirstProject_Weapon_h_24_STANDARD_CONSTRUCTORS \
+#define SoulSkillsGame_master_Source_FirstProject_Weapon_h_21_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API AWeapon(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AWeapon) \
@@ -64,7 +64,7 @@ private: \
 public:
 
 
-#define SoulSkillsGame_master_Source_FirstProject_Weapon_h_24_ENHANCED_CONSTRUCTORS \
+#define SoulSkillsGame_master_Source_FirstProject_Weapon_h_21_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API AWeapon(AWeapon&&); \
@@ -75,28 +75,28 @@ public: \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(AWeapon)
 
 
-#define SoulSkillsGame_master_Source_FirstProject_Weapon_h_24_PRIVATE_PROPERTY_OFFSET
-#define SoulSkillsGame_master_Source_FirstProject_Weapon_h_21_PROLOG
-#define SoulSkillsGame_master_Source_FirstProject_Weapon_h_24_GENERATED_BODY_LEGACY \
+#define SoulSkillsGame_master_Source_FirstProject_Weapon_h_21_PRIVATE_PROPERTY_OFFSET
+#define SoulSkillsGame_master_Source_FirstProject_Weapon_h_18_PROLOG
+#define SoulSkillsGame_master_Source_FirstProject_Weapon_h_21_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SoulSkillsGame_master_Source_FirstProject_Weapon_h_24_PRIVATE_PROPERTY_OFFSET \
-	SoulSkillsGame_master_Source_FirstProject_Weapon_h_24_SPARSE_DATA \
-	SoulSkillsGame_master_Source_FirstProject_Weapon_h_24_RPC_WRAPPERS \
-	SoulSkillsGame_master_Source_FirstProject_Weapon_h_24_INCLASS \
-	SoulSkillsGame_master_Source_FirstProject_Weapon_h_24_STANDARD_CONSTRUCTORS \
+	SoulSkillsGame_master_Source_FirstProject_Weapon_h_21_PRIVATE_PROPERTY_OFFSET \
+	SoulSkillsGame_master_Source_FirstProject_Weapon_h_21_SPARSE_DATA \
+	SoulSkillsGame_master_Source_FirstProject_Weapon_h_21_RPC_WRAPPERS \
+	SoulSkillsGame_master_Source_FirstProject_Weapon_h_21_INCLASS \
+	SoulSkillsGame_master_Source_FirstProject_Weapon_h_21_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SoulSkillsGame_master_Source_FirstProject_Weapon_h_24_GENERATED_BODY \
+#define SoulSkillsGame_master_Source_FirstProject_Weapon_h_21_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SoulSkillsGame_master_Source_FirstProject_Weapon_h_24_PRIVATE_PROPERTY_OFFSET \
-	SoulSkillsGame_master_Source_FirstProject_Weapon_h_24_SPARSE_DATA \
-	SoulSkillsGame_master_Source_FirstProject_Weapon_h_24_RPC_WRAPPERS_NO_PURE_DECLS \
-	SoulSkillsGame_master_Source_FirstProject_Weapon_h_24_INCLASS_NO_PURE_DECLS \
-	SoulSkillsGame_master_Source_FirstProject_Weapon_h_24_ENHANCED_CONSTRUCTORS \
+	SoulSkillsGame_master_Source_FirstProject_Weapon_h_21_PRIVATE_PROPERTY_OFFSET \
+	SoulSkillsGame_master_Source_FirstProject_Weapon_h_21_SPARSE_DATA \
+	SoulSkillsGame_master_Source_FirstProject_Weapon_h_21_RPC_WRAPPERS_NO_PURE_DECLS \
+	SoulSkillsGame_master_Source_FirstProject_Weapon_h_21_INCLASS_NO_PURE_DECLS \
+	SoulSkillsGame_master_Source_FirstProject_Weapon_h_21_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 

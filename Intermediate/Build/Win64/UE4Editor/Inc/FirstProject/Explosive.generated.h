@@ -13,10 +13,10 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define FIRSTPROJECT_Explosive_generated_h
 
-#define SoulSkillsGame_master_Source_FirstProject_Explosive_h_15_SPARSE_DATA
-#define SoulSkillsGame_master_Source_FirstProject_Explosive_h_15_RPC_WRAPPERS
-#define SoulSkillsGame_master_Source_FirstProject_Explosive_h_15_RPC_WRAPPERS_NO_PURE_DECLS
-#define SoulSkillsGame_master_Source_FirstProject_Explosive_h_15_INCLASS_NO_PURE_DECLS \
+#define SoulSkillsGame_master_Source_FirstProject_Explosive_h_12_SPARSE_DATA
+#define SoulSkillsGame_master_Source_FirstProject_Explosive_h_12_RPC_WRAPPERS
+#define SoulSkillsGame_master_Source_FirstProject_Explosive_h_12_RPC_WRAPPERS_NO_PURE_DECLS
+#define SoulSkillsGame_master_Source_FirstProject_Explosive_h_12_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAExplosive(); \
 	friend struct Z_Construct_UClass_AExplosive_Statics; \
@@ -25,7 +25,7 @@ public: \
 	DECLARE_SERIALIZER(AExplosive)
 
 
-#define SoulSkillsGame_master_Source_FirstProject_Explosive_h_15_INCLASS \
+#define SoulSkillsGame_master_Source_FirstProject_Explosive_h_12_INCLASS \
 private: \
 	static void StaticRegisterNativesAExplosive(); \
 	friend struct Z_Construct_UClass_AExplosive_Statics; \
@@ -34,7 +34,7 @@ public: \
 	DECLARE_SERIALIZER(AExplosive)
 
 
-#define SoulSkillsGame_master_Source_FirstProject_Explosive_h_15_STANDARD_CONSTRUCTORS \
+#define SoulSkillsGame_master_Source_FirstProject_Explosive_h_12_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API AExplosive(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AExplosive) \
@@ -47,7 +47,7 @@ private: \
 public:
 
 
-#define SoulSkillsGame_master_Source_FirstProject_Explosive_h_15_ENHANCED_CONSTRUCTORS \
+#define SoulSkillsGame_master_Source_FirstProject_Explosive_h_12_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API AExplosive(AExplosive&&); \
@@ -58,28 +58,28 @@ public: \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(AExplosive)
 
 
-#define SoulSkillsGame_master_Source_FirstProject_Explosive_h_15_PRIVATE_PROPERTY_OFFSET
-#define SoulSkillsGame_master_Source_FirstProject_Explosive_h_12_PROLOG
-#define SoulSkillsGame_master_Source_FirstProject_Explosive_h_15_GENERATED_BODY_LEGACY \
+#define SoulSkillsGame_master_Source_FirstProject_Explosive_h_12_PRIVATE_PROPERTY_OFFSET
+#define SoulSkillsGame_master_Source_FirstProject_Explosive_h_9_PROLOG
+#define SoulSkillsGame_master_Source_FirstProject_Explosive_h_12_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SoulSkillsGame_master_Source_FirstProject_Explosive_h_15_PRIVATE_PROPERTY_OFFSET \
-	SoulSkillsGame_master_Source_FirstProject_Explosive_h_15_SPARSE_DATA \
-	SoulSkillsGame_master_Source_FirstProject_Explosive_h_15_RPC_WRAPPERS \
-	SoulSkillsGame_master_Source_FirstProject_Explosive_h_15_INCLASS \
-	SoulSkillsGame_master_Source_FirstProject_Explosive_h_15_STANDARD_CONSTRUCTORS \
+	SoulSkillsGame_master_Source_FirstProject_Explosive_h_12_PRIVATE_PROPERTY_OFFSET \
+	SoulSkillsGame_master_Source_FirstProject_Explosive_h_12_SPARSE_DATA \
+	SoulSkillsGame_master_Source_FirstProject_Explosive_h_12_RPC_WRAPPERS \
+	SoulSkillsGame_master_Source_FirstProject_Explosive_h_12_INCLASS \
+	SoulSkillsGame_master_Source_FirstProject_Explosive_h_12_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SoulSkillsGame_master_Source_FirstProject_Explosive_h_15_GENERATED_BODY \
+#define SoulSkillsGame_master_Source_FirstProject_Explosive_h_12_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SoulSkillsGame_master_Source_FirstProject_Explosive_h_15_PRIVATE_PROPERTY_OFFSET \
-	SoulSkillsGame_master_Source_FirstProject_Explosive_h_15_SPARSE_DATA \
-	SoulSkillsGame_master_Source_FirstProject_Explosive_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
-	SoulSkillsGame_master_Source_FirstProject_Explosive_h_15_INCLASS_NO_PURE_DECLS \
-	SoulSkillsGame_master_Source_FirstProject_Explosive_h_15_ENHANCED_CONSTRUCTORS \
+	SoulSkillsGame_master_Source_FirstProject_Explosive_h_12_PRIVATE_PROPERTY_OFFSET \
+	SoulSkillsGame_master_Source_FirstProject_Explosive_h_12_SPARSE_DATA \
+	SoulSkillsGame_master_Source_FirstProject_Explosive_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
+	SoulSkillsGame_master_Source_FirstProject_Explosive_h_12_INCLASS_NO_PURE_DECLS \
+	SoulSkillsGame_master_Source_FirstProject_Explosive_h_12_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 

@@ -15,9 +15,6 @@ enum class EWeaponState :uint8
 	EWS_MAX	UMETA(DisplayName = "DefaultMax")
 };
 
-/**
- * 
- */
 UCLASS()
 class FIRSTPROJECT_API AWeapon : public AItem
 {

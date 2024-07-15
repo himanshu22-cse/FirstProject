@@ -13,10 +13,10 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define FIRSTPROJECT_FirstSaveGame_generated_h
 
-#define SoulSkillsGame_master_Source_FirstProject_FirstSaveGame_h_17_SPARSE_DATA
-#define SoulSkillsGame_master_Source_FirstProject_FirstSaveGame_h_17_RPC_WRAPPERS
-#define SoulSkillsGame_master_Source_FirstProject_FirstSaveGame_h_17_RPC_WRAPPERS_NO_PURE_DECLS
-#define SoulSkillsGame_master_Source_FirstProject_FirstSaveGame_h_17_INCLASS_NO_PURE_DECLS \
+#define SoulSkillsGame_master_Source_FirstProject_FirstSaveGame_h_13_SPARSE_DATA
+#define SoulSkillsGame_master_Source_FirstProject_FirstSaveGame_h_13_RPC_WRAPPERS
+#define SoulSkillsGame_master_Source_FirstProject_FirstSaveGame_h_13_RPC_WRAPPERS_NO_PURE_DECLS
+#define SoulSkillsGame_master_Source_FirstProject_FirstSaveGame_h_13_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUFirstSaveGame(); \
 	friend struct Z_Construct_UClass_UFirstSaveGame_Statics; \
@@ -25,7 +25,7 @@ public: \
 	DECLARE_SERIALIZER(UFirstSaveGame)
 
 
-#define SoulSkillsGame_master_Source_FirstProject_FirstSaveGame_h_17_INCLASS \
+#define SoulSkillsGame_master_Source_FirstProject_FirstSaveGame_h_13_INCLASS \
 private: \
 	static void StaticRegisterNativesUFirstSaveGame(); \
 	friend struct Z_Construct_UClass_UFirstSaveGame_Statics; \
@@ -34,7 +34,7 @@ public: \
 	DECLARE_SERIALIZER(UFirstSaveGame)
 
 
-#define SoulSkillsGame_master_Source_FirstProject_FirstSaveGame_h_17_STANDARD_CONSTRUCTORS \
+#define SoulSkillsGame_master_Source_FirstProject_FirstSaveGame_h_13_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UFirstSaveGame(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UFirstSaveGame) \
@@ -47,7 +47,7 @@ private: \
 public:
 
 
-#define SoulSkillsGame_master_Source_FirstProject_FirstSaveGame_h_17_ENHANCED_CONSTRUCTORS \
+#define SoulSkillsGame_master_Source_FirstProject_FirstSaveGame_h_13_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API UFirstSaveGame(UFirstSaveGame&&); \
@@ -58,28 +58,28 @@ public: \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UFirstSaveGame)
 
 
-#define SoulSkillsGame_master_Source_FirstProject_FirstSaveGame_h_17_PRIVATE_PROPERTY_OFFSET
-#define SoulSkillsGame_master_Source_FirstProject_FirstSaveGame_h_14_PROLOG
-#define SoulSkillsGame_master_Source_FirstProject_FirstSaveGame_h_17_GENERATED_BODY_LEGACY \
+#define SoulSkillsGame_master_Source_FirstProject_FirstSaveGame_h_13_PRIVATE_PROPERTY_OFFSET
+#define SoulSkillsGame_master_Source_FirstProject_FirstSaveGame_h_10_PROLOG
+#define SoulSkillsGame_master_Source_FirstProject_FirstSaveGame_h_13_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SoulSkillsGame_master_Source_FirstProject_FirstSaveGame_h_17_PRIVATE_PROPERTY_OFFSET \
-	SoulSkillsGame_master_Source_FirstProject_FirstSaveGame_h_17_SPARSE_DATA \
-	SoulSkillsGame_master_Source_FirstProject_FirstSaveGame_h_17_RPC_WRAPPERS \
-	SoulSkillsGame_master_Source_FirstProject_FirstSaveGame_h_17_INCLASS \
-	SoulSkillsGame_master_Source_FirstProject_FirstSaveGame_h_17_STANDARD_CONSTRUCTORS \
+	SoulSkillsGame_master_Source_FirstProject_FirstSaveGame_h_13_PRIVATE_PROPERTY_OFFSET \
+	SoulSkillsGame_master_Source_FirstProject_FirstSaveGame_h_13_SPARSE_DATA \
+	SoulSkillsGame_master_Source_FirstProject_FirstSaveGame_h_13_RPC_WRAPPERS \
+	SoulSkillsGame_master_Source_FirstProject_FirstSaveGame_h_13_INCLASS \
+	SoulSkillsGame_master_Source_FirstProject_FirstSaveGame_h_13_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SoulSkillsGame_master_Source_FirstProject_FirstSaveGame_h_17_GENERATED_BODY \
+#define SoulSkillsGame_master_Source_FirstProject_FirstSaveGame_h_13_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SoulSkillsGame_master_Source_FirstProject_FirstSaveGame_h_17_PRIVATE_PROPERTY_OFFSET \
-	SoulSkillsGame_master_Source_FirstProject_FirstSaveGame_h_17_SPARSE_DATA \
-	SoulSkillsGame_master_Source_FirstProject_FirstSaveGame_h_17_RPC_WRAPPERS_NO_PURE_DECLS \
-	SoulSkillsGame_master_Source_FirstProject_FirstSaveGame_h_17_INCLASS_NO_PURE_DECLS \
-	SoulSkillsGame_master_Source_FirstProject_FirstSaveGame_h_17_ENHANCED_CONSTRUCTORS \
+	SoulSkillsGame_master_Source_FirstProject_FirstSaveGame_h_13_PRIVATE_PROPERTY_OFFSET \
+	SoulSkillsGame_master_Source_FirstProject_FirstSaveGame_h_13_SPARSE_DATA \
+	SoulSkillsGame_master_Source_FirstProject_FirstSaveGame_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
+	SoulSkillsGame_master_Source_FirstProject_FirstSaveGame_h_13_INCLASS_NO_PURE_DECLS \
+	SoulSkillsGame_master_Source_FirstProject_FirstSaveGame_h_13_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 

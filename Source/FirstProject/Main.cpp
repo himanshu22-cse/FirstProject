@@ -711,7 +711,6 @@ void AMain::LoadGameNoSwitch()
 
 		Coins = LoadObject->CharacterStats.Coins;
 
-
 		if (WeaponContainer)
 		{
 			AWeaponContainerActor* Container = GetWorld()->SpawnActor<AWeaponContainerActor>(WeaponContainer);

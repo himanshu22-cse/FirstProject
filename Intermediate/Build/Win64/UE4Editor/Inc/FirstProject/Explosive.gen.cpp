@@ -51,7 +51,6 @@ void EmptyLinkFunctionForGeneratedCodeExplosive() {}
 	};
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AExplosive_Statics::Class_MetaDataParams[] = {
-		{ "Comment", "/**\n * \n */" },
 		{ "IncludePath", "Explosive.h" },
 		{ "ModuleRelativePath", "Explosive.h" },
 	};
@@ -101,7 +100,7 @@ void EmptyLinkFunctionForGeneratedCodeExplosive() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AExplosive, 2037827175);
+	IMPLEMENT_CLASS(AExplosive, 3920645382);
 	template<> FIRSTPROJECT_API UClass* StaticClass<AExplosive>()
 	{
 		return AExplosive::StaticClass();

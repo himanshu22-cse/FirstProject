@@ -6,9 +6,6 @@
 #include "Item.h"
 #include "Pickup.generated.h"
 
-/**
- * 
- */
 UCLASS()
 class FIRSTPROJECT_API APickup : public AItem
 {

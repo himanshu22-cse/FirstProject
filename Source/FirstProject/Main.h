@@ -238,7 +238,7 @@ public:
 	bool AllowInput(float Value);
 
 	FORCEINLINE class USpringArmComponent* GetCameraBoom() const { return CameraBoom; }
-	FORCEINLINE class UCameraComponent* GetFollowCamera() const { return FollowCamera; }
+	FORCEINLINE class UCameraComponent* GetFollowCamera() const { return FollowCamera; }  
 
 	UPROPERTY(VisibleInstanceOnly, BlueprintReadOnly, Category = Items)
 	class AWeapon* EquippedWeapon; // anything that's not really a basic type is stored as a pointer.

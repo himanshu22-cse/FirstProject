@@ -8,9 +8,7 @@
 #include "UObject/NoExportTypes.h"
 #include "WeaponContainer.generated.h"
 
-/**
- * 
- */
+
 UCLASS(Blueprintable, BlueprintType)
 class FIRSTPROJECT_API UWeaponContainer : public UObject
 {

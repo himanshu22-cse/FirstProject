@@ -81,7 +81,6 @@ void EmptyLinkFunctionForGeneratedCodePickup() {}
 	};
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_APickup_Statics::Class_MetaDataParams[] = {
-		{ "Comment", "/**\n * \n */" },
 		{ "IncludePath", "Pickup.h" },
 		{ "ModuleRelativePath", "Pickup.h" },
 	};
@@ -113,7 +112,7 @@ void EmptyLinkFunctionForGeneratedCodePickup() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(APickup, 53034658);
+	IMPLEMENT_CLASS(APickup, 2316559469);
 	template<> FIRSTPROJECT_API UClass* StaticClass<APickup>()
 	{
 		return APickup::StaticClass();

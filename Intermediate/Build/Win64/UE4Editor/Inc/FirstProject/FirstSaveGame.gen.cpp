@@ -54,7 +54,6 @@ void EmptyLinkFunctionForGeneratedCodeFirstSaveGame() {}
 	};
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UFirstSaveGame_Statics::Class_MetaDataParams[] = {
-		{ "Comment", "/**\n * \n */" },
 		{ "IncludePath", "FirstSaveGame.h" },
 		{ "ModuleRelativePath", "FirstSaveGame.h" },
 	};
@@ -112,7 +111,7 @@ void EmptyLinkFunctionForGeneratedCodeFirstSaveGame() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(UFirstSaveGame, 433065756);
+	IMPLEMENT_CLASS(UFirstSaveGame, 3654030603);
 	template<> FIRSTPROJECT_API UClass* StaticClass<UFirstSaveGame>()
 	{
 		return UFirstSaveGame::StaticClass();

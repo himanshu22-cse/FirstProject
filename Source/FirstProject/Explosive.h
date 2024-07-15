@@ -6,9 +6,6 @@
 #include "Item.h"
 #include "Explosive.generated.h"
 
-/**
- * 
- */
 UCLASS()
 class FIRSTPROJECT_API AExplosive : public AItem
 {

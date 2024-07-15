@@ -103,7 +103,7 @@ void AMainPlayerController::TogglePauseMenu()
 	}
 	else
 	{
-		RemovePauseMenu();
+		RemovePauseMenu(); 
 	}
 }
 

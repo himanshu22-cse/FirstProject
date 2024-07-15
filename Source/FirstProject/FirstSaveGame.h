@@ -3,14 +3,10 @@
 #pragma once
 
 #include "Main.h"
-
 #include "CoreMinimal.h"
 #include "GameFramework/SaveGame.h"
 #include "FirstSaveGame.generated.h"
 
-/**
- * 
- */
 UCLASS()
 class FIRSTPROJECT_API UFirstSaveGame : public USaveGame
 {
