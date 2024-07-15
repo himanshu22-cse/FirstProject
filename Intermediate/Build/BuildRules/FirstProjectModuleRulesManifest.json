@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\GameProjects\\FirstProject\\SoulSkillsGame-master\\Source\\FirstProject\\FirstProject.Build.cs",
+		"C:\\GameProjects\\FirstProject\\SoulSkillsGame-master\\Source\\FirstProject.Target.cs",
+		"C:\\GameProjects\\FirstProject\\SoulSkillsGame-master\\Source\\FirstProjectEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

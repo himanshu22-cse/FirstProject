@@ -1,0 +1,9 @@
+C:\GameProjects\FirstProject\SoulSkillsGame-master\Intermediate\Build\Win64\UE4Editor\Development\FirstProject\Definitions.FirstProject.h
+C:\GameProjects\FirstProject\SoulSkillsGame-master\Source\FirstProject\Critter.h
+C:\GameProjects\FirstProject\SoulSkillsGame-master\Intermediate\Build\Win64\UE4Editor\Inc\FirstProject\Critter.generated.h
+E:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Camera/CameraComponent.h
+E:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraComponent.generated.h
+C:\GameProjects\FirstProject\SoulSkillsGame-master\Source\FirstProject\Weapon.h
+C:\GameProjects\FirstProject\SoulSkillsGame-master\Source\FirstProject\Item.h
+C:\GameProjects\FirstProject\SoulSkillsGame-master\Intermediate\Build\Win64\UE4Editor\Inc\FirstProject\Item.generated.h
+C:\GameProjects\FirstProject\SoulSkillsGame-master\Intermediate\Build\Win64\UE4Editor\Inc\FirstProject\Weapon.generated.h

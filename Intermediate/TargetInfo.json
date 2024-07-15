@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FirstProject",
+			"Path": "C:\\GameProjects\\FirstProject\\SoulSkillsGame-master\\Source\\FirstProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FirstProjectEditor",
+			"Path": "C:\\GameProjects\\FirstProject\\SoulSkillsGame-master\\Source\\FirstProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

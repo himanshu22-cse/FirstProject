@@ -1,0 +1,7 @@
+C:\GameProjects\FirstProject\SoulSkillsGame-master\Intermediate\Build\Win64\UE4Editor\Development\FirstProject\Definitions.FirstProject.h
+C:\GameProjects\FirstProject\SoulSkillsGame-master\Source\FirstProject\FloorSwitch.h
+C:\GameProjects\FirstProject\SoulSkillsGame-master\Intermediate\Build\Win64\UE4Editor\Inc\FirstProject\FloorSwitch.generated.h
+E:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/BoxComponent.h
+E:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+E:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+E:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BoxComponent.generated.h

@@ -1,0 +1,16 @@
+C:\GameProjects\FirstProject\SoulSkillsGame-master\Intermediate\Build\Win64\UE4Editor\Development\FirstProject\Definitions.FirstProject.h
+C:\GameProjects\FirstProject\SoulSkillsGame-master\Source\FirstProject\Item.h
+C:\GameProjects\FirstProject\SoulSkillsGame-master\Intermediate\Build\Win64\UE4Editor\Inc\FirstProject\Item.generated.h
+E:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/SphereComponent.h
+E:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+E:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+E:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SphereComponent.generated.h
+E:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/BoxComponent.h
+E:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BoxComponent.generated.h
+E:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Particles/ParticleSystemComponent.h
+E:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Particles/ParticleSystem.h
+E:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Particles/ParticlePerfStats.h
+E:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ParticleSystem.generated.h
+E:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Particles/Emitter.h
+E:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Emitter.generated.h
+E:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ParticleSystemComponent.generated.h

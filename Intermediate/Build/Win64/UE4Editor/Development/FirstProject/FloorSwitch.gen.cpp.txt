@@ -1,0 +1,5 @@
+C:\GameProjects\FirstProject\SoulSkillsGame-master\Intermediate\Build\Win64\UE4Editor\Development\FirstProject\Definitions.FirstProject.h
+E:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+E:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\GameProjects\FirstProject\SoulSkillsGame-master\Source\FirstProject/FloorSwitch.h
+C:\GameProjects\FirstProject\SoulSkillsGame-master\Intermediate\Build\Win64\UE4Editor\Inc\FirstProject\FloorSwitch.generated.h

@@ -1,0 +1,3 @@
+C:\GameProjects\FirstProject\SoulSkillsGame-master\Intermediate\Build\Win64\UE4Editor\Development\FirstProject\Definitions.FirstProject.h
+C:\GameProjects\FirstProject\SoulSkillsGame-master\Source\FirstProject\WeaponContainerActor.h
+C:\GameProjects\FirstProject\SoulSkillsGame-master\Intermediate\Build\Win64\UE4Editor\Inc\FirstProject\WeaponContainerActor.generated.h
