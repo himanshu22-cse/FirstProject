@@ -666,7 +666,6 @@ void AMain::LoadGame(bool LoadPosition)
 
 		Coins = LoadObject->CharacterStats.Coins;
 
-
 		if (WeaponContainer)
 		{
 			AWeaponContainerActor* Container = GetWorld()->SpawnActor<AWeaponContainerActor>(WeaponContainer);
