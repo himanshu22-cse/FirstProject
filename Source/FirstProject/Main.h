@@ -241,7 +241,7 @@ public:
 	FORCEINLINE class UCameraComponent* GetFollowCamera() const { return FollowCamera; }
 
 	UPROPERTY(VisibleInstanceOnly, BlueprintReadOnly, Category = Items)
-	class AWeapon* EquippedWeapon;
+	class AWeapon* EquippedWeapon; // anything that's not really a basic type is stored as a pointer.
 
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Items)
 	class AItem* ActiveOverlappingItem;

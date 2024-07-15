@@ -1054,7 +1054,9 @@ static struct FScriptStruct_FirstProject_StaticRegisterNativesFCharacterStats
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AMain_Statics::NewProp_ActiveOverlappingItem_MetaData[] = {
 		{ "Category", "Items" },
+		{ "Comment", "// anything that's not really a basic type is stored as a pointer.\n" },
 		{ "ModuleRelativePath", "Main.h" },
+		{ "ToolTip", "anything that's not really a basic type is stored as a pointer." },
 	};
 #endif
 	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AMain_Statics::NewProp_ActiveOverlappingItem = { "ActiveOverlappingItem", nullptr, (EPropertyFlags)0x0010000000020015, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AMain, ActiveOverlappingItem), Z_Construct_UClass_AItem_NoRegister, METADATA_PARAMS(Z_Construct_UClass_AMain_Statics::NewProp_ActiveOverlappingItem_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AMain_Statics::NewProp_ActiveOverlappingItem_MetaData)) };
@@ -1151,7 +1153,7 @@ static struct FScriptStruct_FirstProject_StaticRegisterNativesFCharacterStats
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AMain, 93329956);
+	IMPLEMENT_CLASS(AMain, 4146135166);
 	template<> FIRSTPROJECT_API UClass* StaticClass<AMain>()
 	{
 		return AMain::StaticClass();
