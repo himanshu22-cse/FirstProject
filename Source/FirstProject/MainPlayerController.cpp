@@ -80,7 +80,7 @@ void AMainPlayerController::Tick(float DeltaTime)
 void AMainPlayerController::DisplayPauseMenu_Implementation()
 {
 	bPauseMenuOpen = true;
-	bShowMouseCursor = true;
+	bShowMouseCursor = true;   // boolean for mouse cursor visible or not (availabe on the PlayerController class).
 
 	FInputModeGameAndUI InputModeGameAndUI;
 	SetInputMode(InputModeGameAndUI);
