@@ -1,8 +1,6 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
 #include "Weapon.h"
-
-
 #include "Components/SkeletalMeshComponent.h"
 #include "Main.h"
 #include "Engine/SkeletalMeshSocket.h"
@@ -18,7 +16,7 @@ AWeapon::AWeapon()
 {
 	SkeletalMesh = CreateDefaultSubobject<USkeletalMeshComponent>(TEXT("SkeletalMesh"));
 	SkeletalMesh->SetupAttachment(GetRootComponent());
-
+	 
 	CombatCollision = CreateDefaultSubobject<UBoxComponent>(TEXT("CombatCollision"));
 	CombatCollision->SetupAttachment(GetRootComponent());
 	CombatCollision->SetVisibility(false);
@@ -52,7 +50,8 @@ void AWeapon::OnOverlapBegin(UPrimitiveComponent* OverlappedComponent, AActor* O
 		AMain* Main = Cast<AMain>(OtherActor);
 		if (Main)
 		{
-			Main->SetActiveOverlappingItem(this);
+			(*Main).SetActiveOverlappingItem(this);
+			//Main->SetActiveOverlappingItem(this);
 		}
 	}
 }

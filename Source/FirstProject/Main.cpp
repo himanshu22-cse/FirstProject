@@ -573,7 +573,7 @@ void AMain::UpdateCombatTarget()
 	AEnemy* ClosestEnemy = Cast<AEnemy>(OverlappingActors[0]);
 	if (ClosestEnemy)
 	{
-		FVector Location = GetActorLocation();
+		FVector Location = GetActorLocation(); 
 		float MinDistance = (ClosestEnemy->GetActorLocation() - Location).Size();
 
 		for (auto Actor : OverlappingActors)
